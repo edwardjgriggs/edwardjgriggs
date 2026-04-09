@@ -1,19 +1,19 @@
 # Hi, I'm Edward Griggs
 
-**AI Engineer | Cybersecurity Researcher | CompTIA Security+**
+**AI Engineer | Security Researcher | CompTIA Security+**
 
-I build AI-powered tools and workflows for enterprise environments, with a focus on security, governance, and responsible adoption. By day I'm a Systems Administrator securing Microsoft 365 infrastructure for a federal contractor. On the side, I run [Oriflect](https://oriflect.com) — an AI consultancy helping small businesses adopt AI safely.
+I build AI-powered tools and research AI security — from prompt injection defenses to LLM-driven automation. I run [Oriflect](https://oriflect.com), an AI consultancy helping small businesses adopt AI safely, and bring a background in enterprise IT security and compliance.
 
 ### What I'm working on
 
-- 🔬 **Security research** — prompt injection defenses, deepfake detection, and LLM security
-- 🛡️ **AI governance** — authoring AI use policies and advising on safe enterprise AI adoption
-- ⚙️ **Automation** — Python + n8n + Claude API workflows for IT operations
 - 📱 **PromptLab** — an iOS app that teaches people to write better AI prompts
+- 🔬 **AI security research** — prompt injection defenses, deepfake detection, and LLM security
+- ⚙️ **Automation** — Python + n8n + Claude API workflows for IT operations
+- 🛡️ **AI governance** — authoring AI use policies and advising on safe enterprise AI adoption
 
 ### Core skills
 
-`AI Security` · `Prompt Engineering` · `Python Automation` · `M365 Administration` · `NIST 800-171` · `Incident Response` · `Identity & Access Management` · `SharePoint Architecture`
+`AI Security` · `Prompt Engineering` · `Python` · `LLM APIs` · `Automation (n8n)` · `Incident Response` · `NIST 800-171`
 
 ### Certifications
 
