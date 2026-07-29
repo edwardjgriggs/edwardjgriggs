@@ -19,7 +19,7 @@ Write the detection, prove it in the lab, automate the delivery. That is the loo
 ### What I work on
 
 **Security operations and compliance**
-Incident and phishing response, Microsoft Defender, Entra ID, Intune, and Purview DLP across a 50-user GovCon environment. Primary author behind a perfect 110/110 NIST SP 800-171 SPRS score and CMMC Level 2 readiness. Raised Microsoft Secure Score from 54.5% to 83.6% across 30+ endpoints.
+Incident and phishing response, Microsoft Defender, Entra ID, Intune, and Purview DLP across a 50+ user GovCon environment. Primary author behind a perfect 110/110 NIST SP 800-171 SPRS score, with the organization at CMMC Level 1 today and actively preparing for Level 2. Raised Microsoft Secure Score from 54.5% to 83.6% across 30+ endpoints.
 
 **Detection engineering**
 KQL and Sigma detections mapped to MITRE ATT&CK, validated in a self-built Sentinel and Wazuh lab and shipped through a detection-as-code pipeline. See the portfolio above.
@@ -43,7 +43,7 @@ Team Lead and Lead Developer for a four-person team building a browser-based sec
 
 ### Core skills
 
-`Security Operations` · `Detection Engineering` · `Microsoft Sentinel` · `KQL` · `Sigma` · `MITRE ATT&CK` · `Wazuh` · `Detection as Code` · `Incident Response` · `Microsoft Defender` · `Entra ID` · `Intune` · `Purview DLP` · `Conditional Access` · `NIST SP 800-171` · `CMMC Level 2` · `PowerShell` · `Python` · `Microsoft Graph API` · `Prompt Injection Defense` · `LLM Security`
+`Security Operations` · `Detection Engineering` · `Microsoft Sentinel` · `KQL` · `Sigma` · `MITRE ATT&CK` · `Wazuh` · `Detection as Code` · `Incident Response` · `Microsoft Defender` · `Entra ID` · `Intune` · `Purview DLP` · `Conditional Access` · `NIST SP 800-171` · `CMMC (L1 today, L2 in prep)` · `PowerShell` · `Python` · `Microsoft Graph API` · `Prompt Injection Defense` · `LLM Security`
 
 ### Certifications
 
