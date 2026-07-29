@@ -47,12 +47,11 @@ Team Lead and Lead Developer for a four-person team building a browser-based sec
 
 ### Certifications
 
-- CompTIA Security+ (SY0-701)
+- CompTIA Security+ (SY0-701) — 2026
+- Google Cybersecurity Professional Certificate (V2) — 2025
+- Google AI Professional Certificate — 2025
+- IBM Generative AI Essentials for Cybersecurity — 2025
 - Microsoft SC-200: Security Operations Analyst (in progress)
-- Google Cybersecurity Certificate
-- Google AI Professional Certificate
-- IBM Introduction to Artificial Intelligence
-- IBM Introduction to Software Engineering
 
 ### Connect
 
