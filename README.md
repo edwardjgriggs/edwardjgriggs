@@ -2,7 +2,7 @@
 
 **Security Operations & Detection Engineering | AI Security Researcher**
 
-Security+ certified analyst who defends a federal GovCon Microsoft 365 environment and builds the detections that catch attacks against it. I pair hands-on security operations (incident response, identity governance, NIST SP 800-171 compliance) with detection engineering in Microsoft Sentinel, and published AI security research on prompt injection and LLM defenses. I also build AI tools that keep a human in the loop and refuse to make things up.
+Security+ certified analyst who defends a federal GovCon Microsoft 365 environment and builds the detections that catch attacks against it. I pair hands-on security operations (incident response, identity governance, NIST SP 800-171 compliance) with detection engineering in Microsoft Sentinel, and published AI security research on prompt injection and LLM defenses. I also build AI tools that keep a human in the loop.
 
 Currently building out my detection portfolio and studying for SC-200.
 
@@ -30,7 +30,6 @@ Published through ODU Digital Commons. Includes a Python/Flask proof-of-concept 
 - **[vault-7](https://github.com/edwardjgriggs/vault-7)** Team Lead and Lead Developer for a four-person, browser-based security training game with mission-style scenarios on phishing, passwords, and defensive decisions. Winning project in the COVA CCI Design Cohort.
 
 **Human-in-the-loop AI**
-- **[careerforge](https://github.com/edwardjgriggs/careerforge)** Local-first evidence engine that turns Git commits and AI coding sessions into resume bullets and STAR stories where every claim cites its source. Claims the evidence cannot carry are removed, not softened.
 - **[flight-sentry](https://github.com/edwardjgriggs/flight-sentry)** Mission assurance for spacecraft telemetry using trusted context and IBM Granite, with a human making the final call.
 - **[selvedge](https://github.com/edwardjgriggs/selvedge)** An AI that defends your voice instead of averaging it away. Built for the IBM SkillsBuild AI Builders Challenge, July 2026.
 
